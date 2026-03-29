@@ -114,6 +114,23 @@ src/
     └── VerifyTransaction.tsx
 ```
 
+## video
+https://youtu.be/8myJYcq-umE?si=5qqJaeI241Bwo9v6
+
+## project deployed on vercel
+https://finallevel4modified.vercel.app/
+
+## Screenshots
+
+### CICD
+![CICD](screenshots/CICD.png)
+
+### Escrow
+![Escrow](screenshots/escrow.png)
+
+### Hash
+![Hash](screenshots/hash.png)
+
 ## License
 
 MIT
